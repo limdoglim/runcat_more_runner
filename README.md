@@ -2,6 +2,10 @@
 
 Pixel-art runner animation concepts.
 
+**[RunCat · 도트 러너 도감 열기](https://limdoglim.github.io/runcat_more_runner/)**
+
+미요 클래식을 포함한 27종을 재생해 보고, 마음에 드는 러너의 투명 PNG와 GIF를 ZIP으로 받을 수 있습니다.
+
 ## Structure
 
 - `concepts/<character>/<variant>/frames/`: native PNG animation frames
@@ -59,9 +63,8 @@ All new runners are 8-frame, right-facing, 67 × 36 px animated sprites. Native 
 
 ## 도트 러너 도감
 
-- [갤러리 소스 미리보기](index.html) · [동물별 ZIP 디렉터리](downloads/)
-- 아래 바로 받기 링크는 GitHub Pages 활성화 없이 사용할 수 있습니다.
-- 웹으로 공개하려면 저장소 관리자 화면의 **Settings → Pages → Build and deployment**에서 **Deploy from a branch**를 선택하고 **main / (root)** 를 저장합니다. Pages 서비스가 배포를 마치면 그 설정 화면에 나온 공개 주소를 사용하세요.
+- [도감 열기](https://limdoglim.github.io/runcat_more_runner/) · [동물별 ZIP 디렉터리](downloads/)
+- 갤러리를 열지 않고 받으려면 아래 동물별 ZIP 링크를 이용하세요.
 
 ## 동물별 에셋 받기
 
