@@ -68,11 +68,11 @@ All new runners are 8-frame, right-facing, 67 × 36 px animated sprites. Native 
 
 ## 동물별 에셋 받기
 
-각 ZIP에는 투명 PNG, GIF, 스프라이트 시트가 들어 있습니다. 기본 크기는 67×36 px이며 미요 포토베이스와 미요 클래식은 14프레임, 나머지는 8프레임입니다. 미요 포토베이스 메뉴 막대용 ZIP에는 RunCat Neo용 76×36 px PNG(실루엣 높이 약 1.13배)와 별도 1.5×(101×54 px) 내보내기 리소스가 함께 들어 있습니다.
+미요 포토베이스 ZIP에는 메뉴 막대용 59×36 px 투명 PNG 11장만 들어 있습니다. 다른 러너는 기본 67×36 px이며 투명 PNG, GIF, 스프라이트 시트를 제공합니다.
 
 ### 고양이
 
-- [미요 · 포토베이스 ZIP](https://raw.githubusercontent.com/limdoglim/runcat_more_runner/main/downloads/miyo-photobase.zip) · [메뉴 막대용 ZIP (1.5× 내보내기 포함)](https://raw.githubusercontent.com/limdoglim/runcat_more_runner/main/downloads/miyo-photobase-1p5x.zip) · [GIF](https://raw.githubusercontent.com/limdoglim/runcat_more_runner/main/concepts/miyo-photobase/pixel-runner/previews/run.gif) · [원본](https://github.com/limdoglim/runcat_more_runner/tree/main/concepts/miyo-photobase/pixel-runner)
+- [미요 · 포토베이스 ZIP](https://raw.githubusercontent.com/limdoglim/runcat_more_runner/main/downloads/miyo-photobase.zip) · [미리보기](https://raw.githubusercontent.com/limdoglim/runcat_more_runner/main/concepts/miyo-photobase/menu-bar-11/run.gif)
 - [미요 클래식 ZIP](https://raw.githubusercontent.com/limdoglim/runcat_more_runner/main/downloads/miyo-classic.zip) · [GIF](https://raw.githubusercontent.com/limdoglim/runcat_more_runner/main/concepts/miyo-classic/pixel-runner/previews/run.gif) · [원본](https://github.com/limdoglim/runcat_more_runner/tree/main/concepts/miyo-classic/pixel-runner)
 - [스코티시 폴드 ZIP](https://raw.githubusercontent.com/limdoglim/runcat_more_runner/main/downloads/scottish-fold.zip) · [GIF](https://raw.githubusercontent.com/limdoglim/runcat_more_runner/main/concepts/scottish-fold/pixel-runner/previews/run.gif) · [원본](https://github.com/limdoglim/runcat_more_runner/tree/main/concepts/scottish-fold/pixel-runner)
 - [랙돌 ZIP](https://raw.githubusercontent.com/limdoglim/runcat_more_runner/main/downloads/ragdoll.zip) · [GIF](https://raw.githubusercontent.com/limdoglim/runcat_more_runner/main/concepts/ragdoll/pixel-runner/previews/run.gif) · [원본](https://github.com/limdoglim/runcat_more_runner/tree/main/concepts/ragdoll/pixel-runner)
