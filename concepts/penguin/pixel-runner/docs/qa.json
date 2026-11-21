@@ -1,0 +1,26 @@
+{
+  "frame_width": 67,
+  "frame_height": 36,
+  "frame_count": 8,
+  "alpha_values": [
+    0,
+    255
+  ],
+  "distinct_alpha_masks": 8,
+  "native_frame_delay_ms": [
+    90,
+    90,
+    90,
+    90,
+    90,
+    90,
+    90,
+    90
+  ],
+  "native_loop_ms": 720,
+  "verified_gif_frames": {
+    "run.gif": 8,
+    "run_preview_5x.gif": 8,
+    "menu_18px.gif": 8
+  }
+}
