@@ -52,3 +52,53 @@ All new runners are 8-frame, right-facing, 67 × 36 px animated sprites. Native 
 - [Siberian Husky](concepts/siberian-husky/pixel-runner/) ([GIF](concepts/siberian-husky/pixel-runner/previews/run.gif))
 - [Toy Poodle](concepts/toy-poodle/pixel-runner/) ([GIF](concepts/toy-poodle/pixel-runner/previews/run.gif))
 - [Pembroke Welsh Corgi](concepts/welsh-corgi/pixel-runner/) ([GIF](concepts/welsh-corgi/pixel-runner/previews/run.gif))
+
+### Miyo Classic
+
+- [Miyo Classic](concepts/miyo-classic/pixel-runner/) ([GIF](concepts/miyo-classic/pixel-runner/previews/run.gif)): the original 14-frame, 67 × 36 px gallop.
+
+## 도트 러너 도감
+
+- [갤러리 소스 미리보기](index.html) · [동물별 ZIP 디렉터리](downloads/)
+- 아래 바로 받기 링크는 GitHub Pages 활성화 없이 사용할 수 있습니다.
+- 웹으로 공개하려면 저장소 관리자 화면의 **Settings → Pages → Build and deployment**에서 **Deploy from a branch**를 선택하고 **main / (root)** 를 저장합니다. Pages 서비스가 배포를 마치면 그 설정 화면에 나온 공개 주소를 사용하세요.
+
+## 동물별 에셋 받기
+
+각 ZIP에는 67×36 투명 PNG(미요 클래식 14장, 나머지 8장), GIF, 스프라이트 시트가 들어 있습니다.
+
+### 고양이
+
+- [미요 클래식 ZIP](https://raw.githubusercontent.com/limdoglim/runcat_more_runner/main/downloads/miyo-classic.zip) · [GIF](https://raw.githubusercontent.com/limdoglim/runcat_more_runner/main/concepts/miyo-classic/pixel-runner/previews/run.gif) · [원본](https://github.com/limdoglim/runcat_more_runner/tree/main/concepts/miyo-classic/pixel-runner)
+- [스코티시 폴드 ZIP](https://raw.githubusercontent.com/limdoglim/runcat_more_runner/main/downloads/scottish-fold.zip) · [GIF](https://raw.githubusercontent.com/limdoglim/runcat_more_runner/main/concepts/scottish-fold/pixel-runner/previews/run.gif) · [원본](https://github.com/limdoglim/runcat_more_runner/tree/main/concepts/scottish-fold/pixel-runner)
+- [랙돌 ZIP](https://raw.githubusercontent.com/limdoglim/runcat_more_runner/main/downloads/ragdoll.zip) · [GIF](https://raw.githubusercontent.com/limdoglim/runcat_more_runner/main/concepts/ragdoll/pixel-runner/previews/run.gif) · [원본](https://github.com/limdoglim/runcat_more_runner/tree/main/concepts/ragdoll/pixel-runner)
+- [브리티시 숏헤어 ZIP](https://raw.githubusercontent.com/limdoglim/runcat_more_runner/main/downloads/british-shorthair.zip) · [GIF](https://raw.githubusercontent.com/limdoglim/runcat_more_runner/main/concepts/british-shorthair/pixel-runner/previews/run.gif) · [원본](https://github.com/limdoglim/runcat_more_runner/tree/main/concepts/british-shorthair/pixel-runner)
+- [먼치킨 ZIP](https://raw.githubusercontent.com/limdoglim/runcat_more_runner/main/downloads/munchkin.zip) · [GIF](https://raw.githubusercontent.com/limdoglim/runcat_more_runner/main/concepts/munchkin/pixel-runner/previews/run.gif) · [원본](https://github.com/limdoglim/runcat_more_runner/tree/main/concepts/munchkin/pixel-runner)
+- [페르시안 ZIP](https://raw.githubusercontent.com/limdoglim/runcat_more_runner/main/downloads/persian.zip) · [GIF](https://raw.githubusercontent.com/limdoglim/runcat_more_runner/main/concepts/persian/pixel-runner/previews/run.gif) · [원본](https://github.com/limdoglim/runcat_more_runner/tree/main/concepts/persian/pixel-runner)
+- [러시안 블루 ZIP](https://raw.githubusercontent.com/limdoglim/runcat_more_runner/main/downloads/russian-blue.zip) · [GIF](https://raw.githubusercontent.com/limdoglim/runcat_more_runner/main/concepts/russian-blue/pixel-runner/previews/run.gif) · [원본](https://github.com/limdoglim/runcat_more_runner/tree/main/concepts/russian-blue/pixel-runner)
+- [메인쿤 ZIP](https://raw.githubusercontent.com/limdoglim/runcat_more_runner/main/downloads/maine-coon.zip) · [GIF](https://raw.githubusercontent.com/limdoglim/runcat_more_runner/main/concepts/maine-coon/pixel-runner/previews/run.gif) · [원본](https://github.com/limdoglim/runcat_more_runner/tree/main/concepts/maine-coon/pixel-runner)
+- [샴 ZIP](https://raw.githubusercontent.com/limdoglim/runcat_more_runner/main/downloads/siamese.zip) · [GIF](https://raw.githubusercontent.com/limdoglim/runcat_more_runner/main/concepts/siamese/pixel-runner/previews/run.gif) · [원본](https://github.com/limdoglim/runcat_more_runner/tree/main/concepts/siamese/pixel-runner)
+- [벵갈 ZIP](https://raw.githubusercontent.com/limdoglim/runcat_more_runner/main/downloads/bengal.zip) · [GIF](https://raw.githubusercontent.com/limdoglim/runcat_more_runner/main/concepts/bengal/pixel-runner/previews/run.gif) · [원본](https://github.com/limdoglim/runcat_more_runner/tree/main/concepts/bengal/pixel-runner)
+- [아메리칸 숏헤어 ZIP](https://raw.githubusercontent.com/limdoglim/runcat_more_runner/main/downloads/american-shorthair.zip) · [GIF](https://raw.githubusercontent.com/limdoglim/runcat_more_runner/main/concepts/american-shorthair/pixel-runner/previews/run.gif) · [원본](https://github.com/limdoglim/runcat_more_runner/tree/main/concepts/american-shorthair/pixel-runner)
+
+### 강아지
+
+- [포메라니안 ZIP](https://raw.githubusercontent.com/limdoglim/runcat_more_runner/main/downloads/pomeranian.zip) · [GIF](https://raw.githubusercontent.com/limdoglim/runcat_more_runner/main/concepts/pomeranian/pixel-runner/previews/run.gif) · [원본](https://github.com/limdoglim/runcat_more_runner/tree/main/concepts/pomeranian/pixel-runner)
+- [웰시 코기 ZIP](https://raw.githubusercontent.com/limdoglim/runcat_more_runner/main/downloads/welsh-corgi.zip) · [GIF](https://raw.githubusercontent.com/limdoglim/runcat_more_runner/main/concepts/welsh-corgi/pixel-runner/previews/run.gif) · [원본](https://github.com/limdoglim/runcat_more_runner/tree/main/concepts/welsh-corgi/pixel-runner)
+- [시바 이누 ZIP](https://raw.githubusercontent.com/limdoglim/runcat_more_runner/main/downloads/shiba-inu.zip) · [GIF](https://raw.githubusercontent.com/limdoglim/runcat_more_runner/main/concepts/shiba-inu/pixel-runner/previews/run.gif) · [원본](https://github.com/limdoglim/runcat_more_runner/tree/main/concepts/shiba-inu/pixel-runner)
+- [비숑 프리제 ZIP](https://raw.githubusercontent.com/limdoglim/runcat_more_runner/main/downloads/bichon-frise.zip) · [GIF](https://raw.githubusercontent.com/limdoglim/runcat_more_runner/main/concepts/bichon-frise/pixel-runner/previews/run.gif) · [원본](https://github.com/limdoglim/runcat_more_runner/tree/main/concepts/bichon-frise/pixel-runner)
+- [닥스훈트 ZIP](https://raw.githubusercontent.com/limdoglim/runcat_more_runner/main/downloads/dachshund.zip) · [GIF](https://raw.githubusercontent.com/limdoglim/runcat_more_runner/main/concepts/dachshund/pixel-runner/previews/run.gif) · [원본](https://github.com/limdoglim/runcat_more_runner/tree/main/concepts/dachshund/pixel-runner)
+- [골든 리트리버 ZIP](https://raw.githubusercontent.com/limdoglim/runcat_more_runner/main/downloads/golden-retriever.zip) · [GIF](https://raw.githubusercontent.com/limdoglim/runcat_more_runner/main/concepts/golden-retriever/pixel-runner/previews/run.gif) · [원본](https://github.com/limdoglim/runcat_more_runner/tree/main/concepts/golden-retriever/pixel-runner)
+- [치와와 ZIP](https://raw.githubusercontent.com/limdoglim/runcat_more_runner/main/downloads/chihuahua.zip) · [GIF](https://raw.githubusercontent.com/limdoglim/runcat_more_runner/main/concepts/chihuahua/pixel-runner/previews/run.gif) · [원본](https://github.com/limdoglim/runcat_more_runner/tree/main/concepts/chihuahua/pixel-runner)
+- [퍼그 ZIP](https://raw.githubusercontent.com/limdoglim/runcat_more_runner/main/downloads/pug.zip) · [GIF](https://raw.githubusercontent.com/limdoglim/runcat_more_runner/main/concepts/pug/pixel-runner/previews/run.gif) · [원본](https://github.com/limdoglim/runcat_more_runner/tree/main/concepts/pug/pixel-runner)
+- [토이 푸들 ZIP](https://raw.githubusercontent.com/limdoglim/runcat_more_runner/main/downloads/toy-poodle.zip) · [GIF](https://raw.githubusercontent.com/limdoglim/runcat_more_runner/main/concepts/toy-poodle/pixel-runner/previews/run.gif) · [원본](https://github.com/limdoglim/runcat_more_runner/tree/main/concepts/toy-poodle/pixel-runner)
+- [시베리안 허스키 ZIP](https://raw.githubusercontent.com/limdoglim/runcat_more_runner/main/downloads/siberian-husky.zip) · [GIF](https://raw.githubusercontent.com/limdoglim/runcat_more_runner/main/concepts/siberian-husky/pixel-runner/previews/run.gif) · [원본](https://github.com/limdoglim/runcat_more_runner/tree/main/concepts/siberian-husky/pixel-runner)
+- [파피용 ZIP](https://raw.githubusercontent.com/limdoglim/runcat_more_runner/main/downloads/papillon.zip) · [GIF](https://raw.githubusercontent.com/limdoglim/runcat_more_runner/main/concepts/papillon/pixel-runner/previews/run.gif) · [원본](https://github.com/limdoglim/runcat_more_runner/tree/main/concepts/papillon/pixel-runner)
+- [달마시안 ZIP](https://raw.githubusercontent.com/limdoglim/runcat_more_runner/main/downloads/dalmatian.zip) · [GIF](https://raw.githubusercontent.com/limdoglim/runcat_more_runner/main/concepts/dalmatian/pixel-runner/previews/run.gif) · [원본](https://github.com/limdoglim/runcat_more_runner/tree/main/concepts/dalmatian/pixel-runner)
+
+### 다른 동물
+
+- [토끼 ZIP](https://raw.githubusercontent.com/limdoglim/runcat_more_runner/main/downloads/rabbit.zip) · [GIF](https://raw.githubusercontent.com/limdoglim/runcat_more_runner/main/concepts/rabbit/pixel-runner/previews/run.gif) · [원본](https://github.com/limdoglim/runcat_more_runner/tree/main/concepts/rabbit/pixel-runner)
+- [레서판다 ZIP](https://raw.githubusercontent.com/limdoglim/runcat_more_runner/main/downloads/red-panda.zip) · [GIF](https://raw.githubusercontent.com/limdoglim/runcat_more_runner/main/concepts/red-panda/pixel-runner/previews/run.gif) · [원본](https://github.com/limdoglim/runcat_more_runner/tree/main/concepts/red-panda/pixel-runner)
+- [수달 ZIP](https://raw.githubusercontent.com/limdoglim/runcat_more_runner/main/downloads/river-otter.zip) · [GIF](https://raw.githubusercontent.com/limdoglim/runcat_more_runner/main/concepts/river-otter/pixel-runner/previews/run.gif) · [원본](https://github.com/limdoglim/runcat_more_runner/tree/main/concepts/river-otter/pixel-runner)
+- [펭귄 ZIP](https://raw.githubusercontent.com/limdoglim/runcat_more_runner/main/downloads/penguin.zip) · [GIF](https://raw.githubusercontent.com/limdoglim/runcat_more_runner/main/concepts/penguin/pixel-runner/previews/run.gif) · [원본](https://github.com/limdoglim/runcat_more_runner/tree/main/concepts/penguin/pixel-runner)
