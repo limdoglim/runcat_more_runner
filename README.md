@@ -4,7 +4,7 @@ Pixel-art runner animation concepts.
 
 **[RunCat · 도트 러너 도감 열기](https://limdoglim.github.io/runcat_more_runner/)**
 
-미요 클래식을 포함한 27종을 재생해 보고, 마음에 드는 러너의 투명 PNG와 GIF를 ZIP으로 받을 수 있습니다.
+미요 클래식과 포토베이스를 포함한 28종을 재생해 보고, 마음에 드는 러너의 투명 PNG와 GIF를 ZIP으로 받을 수 있습니다.
 
 ## Structure
 
@@ -68,10 +68,11 @@ All new runners are 8-frame, right-facing, 67 × 36 px animated sprites. Native 
 
 ## 동물별 에셋 받기
 
-각 ZIP에는 67×36 투명 PNG(미요 클래식 14장, 나머지 8장), GIF, 스프라이트 시트가 들어 있습니다.
+각 ZIP에는 67×36 투명 PNG(미요 포토베이스 28장, 미요 클래식 14장, 나머지 8장), GIF, 스프라이트 시트가 들어 있습니다.
 
 ### 고양이
 
+- [미요 · 포토베이스 ZIP](https://raw.githubusercontent.com/limdoglim/runcat_more_runner/main/downloads/miyo-photobase.zip) · [GIF](https://raw.githubusercontent.com/limdoglim/runcat_more_runner/main/concepts/miyo-photobase/pixel-runner/previews/run.gif) · [원본](https://github.com/limdoglim/runcat_more_runner/tree/main/concepts/miyo-photobase/pixel-runner)
 - [미요 클래식 ZIP](https://raw.githubusercontent.com/limdoglim/runcat_more_runner/main/downloads/miyo-classic.zip) · [GIF](https://raw.githubusercontent.com/limdoglim/runcat_more_runner/main/concepts/miyo-classic/pixel-runner/previews/run.gif) · [원본](https://github.com/limdoglim/runcat_more_runner/tree/main/concepts/miyo-classic/pixel-runner)
 - [스코티시 폴드 ZIP](https://raw.githubusercontent.com/limdoglim/runcat_more_runner/main/downloads/scottish-fold.zip) · [GIF](https://raw.githubusercontent.com/limdoglim/runcat_more_runner/main/concepts/scottish-fold/pixel-runner/previews/run.gif) · [원본](https://github.com/limdoglim/runcat_more_runner/tree/main/concepts/scottish-fold/pixel-runner)
 - [랙돌 ZIP](https://raw.githubusercontent.com/limdoglim/runcat_more_runner/main/downloads/ragdoll.zip) · [GIF](https://raw.githubusercontent.com/limdoglim/runcat_more_runner/main/concepts/ragdoll/pixel-runner/previews/run.gif) · [원본](https://github.com/limdoglim/runcat_more_runner/tree/main/concepts/ragdoll/pixel-runner)

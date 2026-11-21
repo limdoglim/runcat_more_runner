@@ -1,0 +1,14 @@
+{
+  "frame_count": 28,
+  "native_canvas": [
+    67,
+    36
+  ],
+  "alpha_values": [
+    0,
+    255
+  ],
+  "distinct_alpha_masks": 28,
+  "loop_ms": 560,
+  "frame_delay_ms": 20
+}
